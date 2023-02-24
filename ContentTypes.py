@@ -1,3 +1,4 @@
+version = 0.1
 ClassType = {
     "mod": {"name": "Name", "displayName": "DisplayName", "description": "Description", "author": "Author",
             "version": "0.1", "minGameVersion": "105", "dependencies": [], "hidden": False},
