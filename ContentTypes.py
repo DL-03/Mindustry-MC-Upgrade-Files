@@ -1,5 +1,6 @@
-version = 0.1
-ClassType = {
+main = {
+"version": 0.1,
+"ClassType": {
     "mod": {"name": "Name", "displayName": "DisplayName", "description": "Description", "author": "Author",
             "version": "0.1", "minGameVersion": "105", "dependencies": [], "hidden": False},
 
@@ -314,4 +315,5 @@ ClassType = {
 
     #	"liquid": {"name": "Name", "description": "Description", "color": "ffffff", "explosiveness": "0", "fliammbility": "0", "radioactivity": "0", "hardness": "1", "cost": "1", "viscosity": "0.55", "heatCapacity": "3", "effect": "freezing", "lightColor": "000000", "research": "copper", "alwaysUnlocked": False},
     # }
+}
 }
