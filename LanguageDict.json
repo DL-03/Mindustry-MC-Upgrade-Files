@@ -14,7 +14,7 @@
       "InformationText": {"en": "Information", "ru": "Информация"},
       "VersionText": {"en": "Version", "ru": "Версия"},
       "CreatorText": {"en": "Creator", "ru": "Создатель"},
-      "PasswordText": {"en": "Password", "ru": "Пароль"},
+      "CodeText": {"en": "Password", "ru": "Пароль"},
 
       "InformationButton": {"en": "Information", "ru": "Информация"},
       "CreateButton": {"en": "Create", "ru": "Создать"},
@@ -59,6 +59,8 @@
       "!else!": {"en": "What were you even hoping for?", "ru": "А на что ты вообще надеялся?"},
       "1234": {"en": "Too trite", "ru": "Cлишком банально"},
       "Password": {"en": "Apparently you don't understand your intentions", "ru": "Видимо ты не понимаешь своих намерений"},
+      "Code": {"en": "Bad luck and miss", "ru": "Невезуха и промах"},
+      "Secret": {"en": "Shhh....", "ru": "Тссс...."},
       "0.21": {"en": "Access to unfinished functions received!", "ru": "Доступ к недоделанными функциям получен!"},
 
       "Vladislav117": {"en": "Give me a piece of the router, the Internet is not working)", "ru": "Дайте мне кусочек роутера ато интернет не работает)"},
